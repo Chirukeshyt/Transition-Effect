@@ -57,11 +57,11 @@ button:hover{
     transition: 500ms;
     transition: transform 500ms cubic-bezier(0.215, 0.610, 0.355, 1.000);
 }
-/* button:not(:hover){
+button:not(:hover){
     transform: scale(1);
     transition:500ms;
     transition: transform 500ms cubic-bezier(0.215, 0.610, 0.355, 1.000);
-} */
+}
 .main1{
     height: 100%;
     width: 100%;
